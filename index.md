@@ -1,6 +1,6 @@
 # Hi, I am Ranveer
 
-I am currently a junior majoring in Computer Science at University of Texas at Dallas. My interest are General Purpose AI and precictive modelling
+I am currently a junior majoring in Computer Science at University of Texas at Dallas. My interest are General Purpose AI and precictive modelling. I am actively looking for an internship
 
 ### Markdown
 
