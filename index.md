@@ -1,8 +1,6 @@
 # Hi, I am Ranveer
 
-You can use the [editor on GitHub](https://github.com/Ranveer6699/Ranveer6699.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a junior majoring in Computer Science at University of Texas at Dallas. My interest are General Purpose AI and precictive modelling
 
 ### Markdown
 
